@@ -1,6 +1,6 @@
 // Define global variable katzDeliLine that represents the line at the beginning of the day
 // Also if we want to test using console.log
-var katzDeliLine = [];
+//var katzDeliLine = [];
 
 //This function takeANumber() adds new people to the katz Deli Line and gives them their place in line
 function takeANumber(katzDeliLine, person){
